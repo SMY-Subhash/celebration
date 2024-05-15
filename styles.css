@@ -24,6 +24,7 @@ body {
   margin: 0;
   font-size:80px;
   margin-bottom: 30px;
+  color: #422C2F;
 }
 
 .scrolling-text {
@@ -33,6 +34,7 @@ body {
 .scroll-text {
   animation: scroll 10s linear infinite;
   font-size:60px;
+  color: #422C2F;
 
 }
 
