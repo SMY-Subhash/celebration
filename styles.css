@@ -26,6 +26,7 @@ body {
   font-size:80px;
   margin-bottom: 40px;
   color: #422C2F;
+   line-height: 2;
 }
 
 .scrolling-text {
@@ -38,6 +39,7 @@ body {
   color: #422C2F;
   width: 100%;
   white-space: nowrap;
+   line-height: 2;
 
 }
 
