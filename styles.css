@@ -22,12 +22,14 @@ body {
 }
 
 .announcement h1 {
-  margin: 0;
+ 
   top: 20%;
-  font-size:80px;
+  font-size: 100px;
+  margin: 15px 0;
+  line-height: 2;
   margin-bottom: 40px;
   color: #422C2F;
-   line-height: 2;
+
 }
 
 .scrolling-text {
@@ -39,8 +41,9 @@ body {
   font-size:70px;
   color: #422C2F;
   width: 100%;
+  margin: 0px 0;
   white-space: nowrap;
-   line-height: 2;
+   line-height: 3;
 
 }
 
