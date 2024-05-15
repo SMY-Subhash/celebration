@@ -37,7 +37,7 @@ body {
 }
 
 .scroll-text {
-  animation: scroll 7s linear infinite;
+  animation: scroll 15s linear infinite;
   font-size:90px;
   color: #422C2F;
   width: 100%;
