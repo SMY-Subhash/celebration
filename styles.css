@@ -22,6 +22,8 @@ body {
 
 .announcement h1 {
   margin: 0;
+  font-size:80px;
+  margin-bottom: 30px;
 }
 
 .scrolling-text {
@@ -30,6 +32,8 @@ body {
 
 .scroll-text {
   animation: scroll 10s linear infinite;
+  font-size:60px;
+
 }
 
 @keyframes scroll {
