@@ -11,12 +11,12 @@ body {
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
-  padding: 40px;
+
 }
 
 .announcement {
   
-  padding: 20px;
+ 
   text-align: center;
   top: 40%;
 }
