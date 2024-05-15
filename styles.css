@@ -34,7 +34,7 @@ body {
 
 .scroll-text {
   animation: scroll 10s linear infinite;
-  font-size:65px;
+  font-size:70px;
   color: #422C2F;
   width: 100%;
   white-space: nowrap;
